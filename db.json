@@ -13,5 +13,20 @@
       "created_at": 1793647415759
     }
   ],
-  "classes": []
+  "classes": [
+    {
+      "id": "c_1793647439694",
+      "name": "تست",
+      "school": "ستست",
+      "admin": "3tst",
+      "admins": [
+        "3tst"
+      ],
+      "inviteCode": "DJHTEL",
+      "members": [
+        "3tst"
+      ],
+      "created_at": 1793647439694
+    }
+  ]
 }
