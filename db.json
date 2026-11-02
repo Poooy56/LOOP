@@ -1,1 +1,10 @@
-{"users": [], "classes": []}
+{
+  "users": [
+    {
+      "username": "tst",
+      "password": "1234",
+      "name": "cgvjhbknkm"
+    }
+  ],
+  "classes": []
+}
