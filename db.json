@@ -36,6 +36,21 @@
       "pinned": false,
       "createdAt": 1793862297637,
       "updatedAt": 1793862297637
+    },
+    {
+      "id": "c_mw3bwgpo_76u3c3lc",
+      "name": "kdsjs",
+      "school": "",
+      "subject": "",
+      "type": "private",
+      "cover": null,
+      "ownerId": "u_mw3btvgn_m0njc4vo",
+      "adminIds": [],
+      "memberIds": [],
+      "inviteCode": "192717",
+      "pinned": false,
+      "createdAt": 1793870033820,
+      "updatedAt": 1793870033820
     }
   ],
   "todos": []
