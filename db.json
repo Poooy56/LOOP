@@ -29,6 +29,16 @@
       "theme": "light",
       "createdAt": 1793872549507,
       "updatedAt": 1793872549507
+    },
+    {
+      "id": "u_mw3e52ol_s4wrhewz",
+      "username": "3tst3",
+      "passwordHash": "49f5fba25b48d56c15b77f9b1bb90d5607162b1a8ab102c9ba5a71d8e6393ad8",
+      "displayName": "Pooyan Taherian",
+      "avatar": null,
+      "theme": "light",
+      "createdAt": 1793873794773,
+      "updatedAt": 1793873794773
     }
   ],
   "classes": [
