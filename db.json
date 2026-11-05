@@ -55,17 +55,6 @@
   ],
   "todos": [
     {
-      "id": "t_mw3c54nr_qitehhjb",
-      "userId": "u_mw3btvgn_m0njc4vo",
-      "title": "امتحان",
-      "desc": "",
-      "priority": "medium",
-      "classId": null,
-      "due": 0,
-      "done": false,
-      "createdAt": 1793870438103
-    },
-    {
       "id": "t_mw3c57zx_sq3faruv",
       "userId": "u_mw3btvgn_m0njc4vo",
       "title": "امتحان",
