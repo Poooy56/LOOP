@@ -61,11 +61,13 @@
       "cover": null,
       "ownerId": "u_mw3btvgn_m0njc4vo",
       "adminIds": [],
-      "memberIds": [],
+      "memberIds": [
+        "u_mw3791gn_pl35dpio"
+      ],
       "inviteCode": "321280",
       "pinned": false,
       "createdAt": 1793870555334,
-      "updatedAt": 1793870555334
+      "updatedAt": 1793870743799
     }
   ],
   "todos": [
