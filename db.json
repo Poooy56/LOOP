@@ -36,6 +36,21 @@
       "pinned": false,
       "createdAt": 1793862297637,
       "updatedAt": 1793862297637
+    },
+    {
+      "id": "c_mw3axn1d_r1hsaek8",
+      "name": "۱۰۶۲",
+      "school": "هاشمی نژاد ۵",
+      "subject": "",
+      "type": "private",
+      "cover": null,
+      "ownerId": "u_mw3au69i_y0p1p4nz",
+      "adminIds": [],
+      "memberIds": [],
+      "inviteCode": "743974",
+      "pinned": false,
+      "createdAt": 1793868409058,
+      "updatedAt": 1793868409058
     }
   ],
   "todos": []
