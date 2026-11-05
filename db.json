@@ -11,6 +11,22 @@
       "updatedAt": 1793862222503
     }
   ],
-  "classes": [],
+  "classes": [
+    {
+      "id": "c_mw37anfp_xscmewu0",
+      "name": "tst",
+      "school": "",
+      "subject": "",
+      "type": "private",
+      "cover": null,
+      "ownerId": "u_mw3791gn_pl35dpio",
+      "adminIds": [],
+      "memberIds": [],
+      "inviteCode": "693521",
+      "pinned": false,
+      "createdAt": 1793862297637,
+      "updatedAt": 1793862297637
+    }
+  ],
   "todos": []
 }
