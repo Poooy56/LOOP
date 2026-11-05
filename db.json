@@ -63,9 +63,9 @@
       "adminIds": [],
       "memberIds": [],
       "inviteCode": "321280",
-      "pinned": false,
+      "pinned": true,
       "createdAt": 1793870555334,
-      "updatedAt": 1793870824247
+      "updatedAt": 1793870926607
     }
   ],
   "todos": [
