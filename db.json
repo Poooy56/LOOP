@@ -156,8 +156,9 @@
       "priority": "medium",
       "classId": null,
       "due": 0,
-      "done": false,
-      "createdAt": 1793952659103
+      "done": true,
+      "createdAt": 1793952659103,
+      "updatedAt": 1793952693231
     },
     {
       "id": "t_mw4p3vkn_hw89rnuo",
