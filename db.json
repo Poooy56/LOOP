@@ -59,6 +59,16 @@
       "theme": "light",
       "createdAt": 1793900611866,
       "updatedAt": 1793900611866
+    },
+    {
+      "id": "u_mw4o1rkq_3v9db8er",
+      "username": "kingmmadi",
+      "passwordHash": "2ab9e50066e2de7bdd53d667765a5bacdc6b226b80e7f8533fbe6301052f676b",
+      "displayName": "محمد فاضل عزیزی",
+      "avatar": null,
+      "theme": "light",
+      "createdAt": 1793950902746,
+      "updatedAt": 1793950902746
     }
   ],
   "classes": [
