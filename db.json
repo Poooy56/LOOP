@@ -137,18 +137,6 @@
   ],
   "todos": [
     {
-      "id": "t_mw3c57zx_sq3faruv",
-      "userId": "u_mw3btvgn_m0njc4vo",
-      "title": "امتحان",
-      "desc": "",
-      "priority": "medium",
-      "classId": null,
-      "due": 0,
-      "done": true,
-      "createdAt": 1793870442430,
-      "updatedAt": 1793870454829
-    },
-    {
       "id": "t_mw4p3esf_o3343e2o",
       "userId": "u_mw3dedtv_jqjotif5",
       "title": "تکلیف شیمی",
