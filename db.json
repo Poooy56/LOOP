@@ -79,6 +79,16 @@
       "theme": "light",
       "createdAt": 1793951418156,
       "updatedAt": 1793951418156
+    },
+    {
+      "id": "u_mw69zard_g2ge69z0",
+      "username": "username",
+      "passwordHash": "c99f2de5c6b4aaa3fd3683e3705047605b8db0b8b0796a97b6b99181254447b5",
+      "displayName": "محمد مهدی مهینی",
+      "avatar": null,
+      "theme": "light",
+      "createdAt": 1794048205369,
+      "updatedAt": 1794048205369
     }
   ],
   "classes": [
